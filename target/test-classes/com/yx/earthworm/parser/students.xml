@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf8"?>
+
+<class>
+	<student id="1号">
+		<name>张三</name>
+		<sex>男</sex>
+	</student>
+	<student id="2号">
+		<name>李四</name>
+		<sex>女</sex>
+	</student>
+</class>
